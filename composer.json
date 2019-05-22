@@ -10,13 +10,13 @@
         "consoletvs/charts": "5.*",
         "consoletvs/identify": "1.*",
         "aitor24/localizer": "^1.4.2",
-        "rb28dett/dashboard": "*",
-        "rb28dett/settings":"*",
-        "rb28dett/permissions":"*",
-        "rb28dett/roles": "*",
-        "rb28dett/users": "*",
-        "rb28dett/profile": "*",
-        "rb28dett/notifications": "*"
+        "rb28dett/dashboard": "1.*",
+        "rb28dett/settings": "1.*",
+        "rb28dett/permissions": "1.*",
+        "rb28dett/roles": "1.*",
+        "rb28dett/users": "1.*",
+        "rb28dett/profile": "1.*",
+        "rb28dett/notifications": "1.*"
     },
     "license": "MIT",
     "authors": [
