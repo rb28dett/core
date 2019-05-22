@@ -1,5 +1,3 @@
-<p align="center"><a href="https://rb28dett.aitorriba.com"><img height="280" src="https://avatars1.githubusercontent.com/u/22253051"></a></p>
-
 <h1 align="center">RB28DETT</h1>
 
 <p align="center">
@@ -18,7 +16,7 @@ RB28DETT is an idea that came to our mind when we found no CMS that had the righ
 ## Documentation
 
 <p align="center">
-<a href="https://rb28dett.aitorriba.com/docs"><img height="120" src="http://i.imgur.com/47WnADd.png"></a>
+<a href="#"><img height="120" src="http://i.imgur.com/47WnADd.png"></a>
 </p>
 
 ## License
