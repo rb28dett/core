@@ -16,7 +16,7 @@ RB28DETT is an idea that came to our mind when we found no CMS that had the righ
 ## Documentation
 
 <p align="center">
-<a href="https://rb28dett.aitorriba.com/docs"><img height="120" src="http://i.imgur.com/47WnADd.png"></a>
+<a href="#"><img height="120" src="http://i.imgur.com/47WnADd.png"></a>
 </p>
 
 ## License
