@@ -1,0 +1,41 @@
+{
+    "name": "rb28dett/rb28dett",
+    "description": "The open source laravel administration panel",
+    "require": {
+        "php": ">=5.6.4",
+        "laravel/framework": "^5.4",
+        "ext-bcmath": "*",
+        "doctrine/dbal": "2.*",
+        "consoletvs/support": "^2.5.0",
+        "consoletvs/charts": "5.*",
+        "consoletvs/identify": "1.*",
+        "aitor24/localizer": "^1.4.2",
+        "rb28dett/dashboard": "1.*",
+        "rb28dett/settings": "1.*",
+        "rb28dett/permissions": "1.*",
+        "rb28dett/roles": "^1.1.0",
+        "rb28dett/users": "^1.0.5",
+        "rb28dett/profile": "1.*",
+        "rb28dett/notifications": "1.*"
+    },
+    "license": "MIT",
+    "authors": [
+{
+            "name": "Stf Kolev",
+            "email": "inkyzfx@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RB28DETT\\RB28DETT\\": "./src"
+        }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "RB28DETT\\RB28DETT\\RB28DETTServiceProvider"
+            ]
+        }
+    }
+}
